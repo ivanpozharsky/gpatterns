@@ -1,4 +1,4 @@
 gpatterns
 =========
 
-Simple tool for creation of fretboard digrams
+Simple tool for creation of fretboard diagrams
